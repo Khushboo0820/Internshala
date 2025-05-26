@@ -769,8 +769,8 @@ const SearchAndFilters = ({
             <div style={{ 
               backgroundColor: 'white', 
               borderRadius: '8px', 
-              padding: '16px', 
-              marginBottom: '8px',
+              padding: '5px', 
+              // marginBottom: '8px',
               border: '1px solid #e5e5e5'
             }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
