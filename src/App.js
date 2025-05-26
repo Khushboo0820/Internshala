@@ -1089,7 +1089,7 @@ function App() {
 
       {/* Internship Results */}
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px 32px' }}>
-        <div style={{ display: 'flex', gap: '24px' }}>
+        <div style={{ display: 'flex', gap: '10px' }}>
           {/* Empty space for sidebar alignment */}
           <div style={{ width: '300px', flexShrink: 0 }}></div>
           
@@ -1100,7 +1100,7 @@ function App() {
                 backgroundColor: 'white', 
                 borderRadius: '8px', 
                 border: '1px solid #e5e5e5', 
-                padding: '48px', 
+                padding: '0px', 
                 textAlign: 'center' 
               }}>
                 <div style={{ marginBottom: '16px' }}>
