@@ -1091,7 +1091,7 @@ function App() {
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 16px 32px' }}>
         <div style={{ display: 'flex', gap: '10px' }}>
           {/* Empty space for sidebar alignment */}
-          <div style={{ width: '300px', flexShrink: 0 }}></div>
+          <div style={{ width: '0px', flexShrink: 0 }}></div>
           
           {/* Results */}
           <div style={{ flex: 1 }}>
