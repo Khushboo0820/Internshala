@@ -770,12 +770,12 @@ const SearchAndFilters = ({
               backgroundColor: 'white', 
               borderRadius: '8px', 
               padding: '16px', 
-              marginBottom: '24px',
+              marginBottom: '8px',
               border: '1px solid #e5e5e5'
             }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <span className="results-count">
-                  {internshipCount.toLocaleString()} total internships
+                  {internshipCount.toLocaleString()} Total Internships
                 </span>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
                   <span style={{ fontSize: '14px', color: '#6c757d' }}>Sort by:</span>
